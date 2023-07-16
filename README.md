@@ -1,3 +1,7 @@
+## Network Downtime
+
+![Slide 2 - Network Downtime](Slide2.png)
+
 This is a full-stack web application.
 
 #### What you need to run this code
