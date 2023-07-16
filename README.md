@@ -1,6 +1,6 @@
 ## Network Downtime
 
-![Slide 2 - Network Downtime](/presentation/Slide2.png)
+![Slide 2 - Network Downtime](./presentation/Slide2.PNG)
 
 This is a full-stack web application.
 
